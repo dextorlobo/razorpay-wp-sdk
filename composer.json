@@ -1,0 +1,17 @@
+{
+    "name": "imarun/razorpay-wp-sdk",
+    "description": "Razorpay WP SDK",
+    "autoload": {
+        "psr-4": {
+            "Imarun\\RazorpayWpSdk\\": "include/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Arun Sharma"
+        }
+    ],
+    "require": {
+        "razorpay/razorpay": "2.*"
+    }
+}
